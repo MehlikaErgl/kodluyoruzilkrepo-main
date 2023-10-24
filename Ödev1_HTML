@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <h1> Mehlika Eroğlu</h1>
+
+    <h3>Hakkımda</h3>
+    <p>Merhaba! Ben Mehlika Eroğlu. Ankara'da yaşıyorum. TED Üniversitesi Yazılım mühendisliği bölümü 3. sınıf öğrencisiyim. 
+    Yazılımın bilmediğim alanlarını öğrenmeyi seviyorum. Front-End daha çok ilgimi çektiği için Kodluyoruz tarafından sağlanan Front-End Eğitimine katıldım.</p>
+    <p>Boş zamanlarımda dizi izlemeyi, müzik dinlemeyi, arkadaşlarımla vakit geçirmeyi severim. </p>
+</head>
+<body style="background-color: rgb(245, 209, 165)">
+    <h3>Bildiğim proglama dilleri:</h3>
+    <ul>
+        <li> Java</li>
+        <dd>  Okulumda ilk dil olarak Java öğretildi ve derslerde de projelerimizi sürekli 
+            olarak Java kullanarak yaptık. Hala da bölüm derslerimizin çoğunun ödevlerinde ve ders içeriklerinde Java'yı bir çok yerde kullanıyoruz.</dd>
+        <li> HTML </li>
+        <dd>  HTML ve CSS'i 2. sınıfın yaz tatilinde öğrendim. Bu süreçte stajımı uzaktan yaptığım için bana da ek olarak zaman kalıyordu ve Front-End'e ilgim olduğunu fark edince 
+            HTML ve CSS öğrenmeye karar vermiştim.
+        </dd>
+        <li> CSS</li>
+        <li> SQL </li>
+        <dd> Okulda database derslerinde SQL öğrendik. Arkadaşlarımla birlikte bu dersin içeriği olan bir proje tasarladık. Film ve dizi platformu tasarlayark bu mobil uygulamayı SQL ile birleştirdik.  </dd>
+    </ul>
+
+
+
+
+</body>
 
